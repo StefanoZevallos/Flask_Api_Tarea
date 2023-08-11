@@ -27,7 +27,7 @@ api.add_resource(AreasController,'/areas')
 api.add_resource(AreaController,'/area')
 api.add_resource(AreaControllerGet,'/area/<int:id>')
 api.add_resource(EmpleadoController,'/empleado')
-api.add_resource(EmpleadoControllerGet,'/empleado')
+api.add_resource(EmpleadoControllerGet,'/empleados')
 
 
 # api.add_resource(AreasController, '/areas')
