@@ -1,4 +1,4 @@
-# Flask_Api_Tarea
+# Api Básica con Flask en Python
 
 Se tiene una empresa en la cual se maneja a las áreas (Marketing, Sistemas, Contabilidad, etc) y a sus empleados, los empleados pertenecen a un área en específica (no pueden pertenecer a mas de una).
 
