@@ -29,5 +29,5 @@ PISTA: para validar si existe o no el query param usar condicionales (if - elif 
 ![flask1](https://github.com/StefanoZevallos/Rest-Api-Basica-hecha-en-Flask/assets/107054283/42fe5064-268a-467f-a500-18affb030a0b)
 
 #Resulado del método Post a /area
-![flask2](https://github.com/StefanoZevallos/Rest-Api-Basica-hecha-en-Flask/assets/107054283/a90c9ffd-6c80-4e25-b61d-eb1a31aa0dd4)
+![flaskpost](https://github.com/StefanoZevallos/Rest-Api-Basica-hecha-en-Flask/assets/107054283/c9124bfc-4267-4394-b047-45a07d369f5f)
 
